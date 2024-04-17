@@ -3,7 +3,6 @@ package Clase;
 public class Body extends Medicament{
     public Body(String denumire, float pret) {
         super(denumire, pret);
-
     }
 
     @Override
